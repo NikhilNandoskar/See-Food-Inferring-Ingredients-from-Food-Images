@@ -1,8 +1,8 @@
 # See-Food-Inferring-Ingredients-from-Food-Images
 
-train.py: Is the Training model of VGG-16 built in Tensorflow
-trasfer-learning-model.py: Is the transfer learning model of VGG-16 built using Tensornets
-predict.py: Script for testing the trained model
+1) train.py: Is the Training model of VGG-16 built in Tensorflow
+2) trasfer-learning-model.py: Is the transfer learning model of VGG-16 built using Tensornets
+3) predict.py: Script for testing the trained model
 
 Download link: 
 dataset download: http://vireo.cs.cityu.edu.hk/VireoFood172/VireoFood172.zip
