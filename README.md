@@ -5,9 +5,9 @@
 3) predict.py: Script for testing the trained model
 
 Download link: 
-dataset download: http://vireo.cs.cityu.edu.hk/VireoFood172/VireoFood172.zip
-Original images (higher resolution): http://vireo.cs.cityu.edu.hk/VireoFood172/VireoFood172_ori.tar.gz.
-label and split download: http://vireo.cs.cityu.edu.hk/VireoFood172/SplitAndIngreLabel.zip
+1) dataset download: http://vireo.cs.cityu.edu.hk/VireoFood172/VireoFood172.zip
+2) Original images (higher resolution): http://vireo.cs.cityu.edu.hk/VireoFood172/VireoFood172_ori.tar.gz.
+3) label and split download: http://vireo.cs.cityu.edu.hk/VireoFood172/SplitAndIngreLabel.zip
 
 Problem Statement: Many attentions have been given to food classification from images, but little is given to predicting the ingredients in a food image. Inferring food ingredients is important for the elders, the sick and many other groups. The last several years have seen the great advancement in food classification using neural network. We decided to build a neural network to infer the ingredients in a food image with TensorFlow.
 
